@@ -28,3 +28,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0k2Kf3mwzQI
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/399/399/original/1629925086489.jpg?1629925122", Scorpions,  Definitivo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-bWEJrfIRoA
