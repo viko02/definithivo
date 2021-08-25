@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/488/original/file3.jpg?1619904050", Elton John, Definitivo
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4XZVI1B01Q
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/858/406/original/The_Best.jpg?1598917435", Bon Jovi, Definitivo. CD Duplo
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y79GSvJBgQs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_460dfa4f8f294c2787f95bb5244ee3ba~mv2.jpg", Phil Collins, Definitivo
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EIygXC0TFKc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_8b79d83056fe40eeb3beef93ab098dcd~mv2_d_1221_1521_s_2.jpg", Roxette, Definitivo
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TN_X1zlnJxc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/885/791/full/AddText_09-18-02.51.12.jpg?1600451504", Roupa Nova,  Definitivo
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0k2Kf3mwzQI
+
