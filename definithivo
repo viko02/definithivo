@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/488/original/file3.jpg?1619904050", Elton John, Definitivo
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/399/795/original/1629960389776.jpg?1629960437", Bon Jovi, Definitivo. CD Duplo
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4XZVI1B01Q
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y79GSvJBgQs
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/858/406/original/The_Best.jpg?1598917435", Bon Jovi, Definitivo. CD Duplo
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/488/original/file3.jpg?1619904050", Elton John, Definitivo
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y79GSvJBgQs
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4XZVI1B01Q
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
